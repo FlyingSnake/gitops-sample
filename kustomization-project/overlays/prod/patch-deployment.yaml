@@ -7,7 +7,7 @@ spec:
     spec:
       containers:
         - name: my-app-container
-          image: my-app:prod
+          image: my-app:prod-
           resources:
             requests:
               memory: "512Mi"

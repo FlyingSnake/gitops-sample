@@ -1,6 +1,6 @@
 # Kustomization Project
 
-This project demonstrates the use of Kustomize to manage Kubernetes resources across different environments (development, staging, and production).
+This project demonstrates the use of Kustomize to manage Kubernetes resources across different environments (development, staging, and production). 
 
 ## Project Structure
 

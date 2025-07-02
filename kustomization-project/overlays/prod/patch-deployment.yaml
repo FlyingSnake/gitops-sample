@@ -7,7 +7,7 @@ spec:
     spec:
       containers:
       - name: my-app-container
-        image: my-app:prod:jenkins-255
+        image: my-app:jenkins-256
         resources:
           requests:
             memory: 512Mi
